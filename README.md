@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Milan 
 
-<!--
-**milosavljevicm218-cell/milosavljevicm218-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer in training, focused on building modern and responsive web applications.
 
-Here are some ideas to get you started:
+Technologies
+HTML
+CSS
+JavaScript
+React
+Angular
+Vue
+Git
+GitHub
+REST APIs
+Projects
+FitTrack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A React web application for tracking workouts. The project includes user authentication, workout management, and data storage using Supabase.
+
+View FitTrack on GitHub
+
+Currently Learning
+
+I'm currently improving my frontend development skills by working on practical projects and learning modern web development technologies.
+
+Goals
+
+My goal is to continue developing my frontend skills, build useful web applications, and grow as a professional developer.
+
+Contact
+
+GitHub: milosavljevicm218-cell
